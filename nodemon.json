@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_USERNAME": "e-commerce ",
+        "MONGODB_PASSWORD": "12345"
+    }
+}
